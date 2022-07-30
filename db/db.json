@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "y8mt86d",
+      "task": "Eat",
+      "status": true
+    },
+    {
+      "id": "cs06t6t",
+      "task": "Sleep",
+      "status": true
+    },
+    {
+      "id": "236qdzo",
+      "task": "Sit",
+      "status": true
+    },
+    {
+      "id": "85r2vdz",
+      "task": "Relax",
+      "status": true
+    }
+  ]
+}
